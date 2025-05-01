@@ -1,0 +1,8 @@
+# Reference: https://github.com/ultralytics/ultralytics/blob/main/ultralytics/trackers/botsort.yaml
+
+_retrack: False
+_retrack_threshold: 0.75
+_high_det_threshold: 0.5
+_new_track_threshold: 0.4
+_track_buffer: 30
+_match_threshold: 0.7

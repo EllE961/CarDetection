@@ -1,0 +1,12 @@
+# Core dependencies
+opencv-python==4.8.0   # Computer vision library
+numpy==1.24.3          # Numerical computing
+shapely==2.0.1         # Geometric operations for zones
+
+# Machine learning frameworks
+torch==2.0.1           # PyTorch deep learning framework
+torchvision==0.15.2    # Computer vision extensions for PyTorch
+ultralytics==8.0.145   # YOLOv8 implementation
+
+# Utilities
+tqdm==4.65.0           # Progress bar 
