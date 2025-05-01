@@ -6,6 +6,8 @@ A computer vision application that detects and tracks vehicles across user-defin
 
 This system provides real-time vehicle detection and tracking capabilities with zone-based analytics. It's designed for traffic monitoring, parking management, and security surveillance applications.
 
+![Vehicle Detection System](images/image1.png)
+
 ## Features
 
 - **Real-time Detection**: High-performance vehicle detection using YOLOv8
@@ -97,6 +99,8 @@ The main detection window displays:
 - Parameter controls
 - Processing statistics
 - Video progress information
+
+![Monitoring Interface](images/image2.png)
 
 ## Controls
 
